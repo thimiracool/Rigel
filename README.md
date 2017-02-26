@@ -1,6 +1,6 @@
 # Rigel
 
-Entrprice Java Spring-Boot application for Community based travel planner.
+Entrprise Java Spring-Boot application for Community based travel planner.
 
 ## Getting Started
 
